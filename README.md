@@ -108,4 +108,3 @@ synent-task1-datacleaning-yourname/
 
 ---
 
-*Made as part of Synent Data Science Internship – Task 1*
